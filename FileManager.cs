@@ -6,6 +6,12 @@ namespace TextEditor.BL
     public class FileManager
     {
         private readonly Encoding _defaultEncoding = Encoding.GetEncoding(1251);
+        
+        public bool IsExist(string filePath)
+        {
+            return File.Exists(filePath);
+        }
+        
         public string GetContent(string filePath)
         {
             return GetContent(filePath, _defaultEncoding);
@@ -25,6 +31,11 @@ namespace TextEditor.BL
             File.WriteAllText(filePath, content, encoding);
         }
 
+        public int GetSymbolCount(string content)
+        {
+            int count = content.Length;
+            return count;
+        }
     }
 
 }
