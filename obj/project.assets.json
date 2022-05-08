@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "targets": {
+<<<<<<< HEAD
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+=======
+    "net6.0-windows7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": []
+>>>>>>> 641694c634278831b60663920a29c2bd392d3db1
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\Trainee\\TextEditorClassLibrary\\TextEditorClassLibrary.csproj",
+      "projectName": "TextEditorClassLibrary",
+      "projectPath": "C:\\Users\\user\\Documents\\C#\\Trainee\\TextEditorClassLibrary\\TextEditorClassLibrary.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\C#\\Trainee\\TextEditorClassLibrary\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\Trainee\\TextEditor\\TextEditor.csproj",
+      "projectName": "TextEditor",
+      "projectPath": "C:\\Users\\user\\Documents\\C#\\Trainee\\TextEditor\\TextEditor.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Documents\\C#\\Trainee\\TextEditor\\obj\\",
+>>>>>>> 641694c634278831b60663920a29c2bd392d3db1
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+<<<<<<< HEAD
+        "net6.0"
+=======
+        "net6.0-windows"
+>>>>>>> 641694c634278831b60663920a29c2bd392d3db1
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+<<<<<<< HEAD
+        "net6.0": {
+          "targetAlias": "net6.0",
+=======
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+>>>>>>> 641694c634278831b60663920a29c2bd392d3db1
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+<<<<<<< HEAD
+      "net6.0": {
+        "targetAlias": "net6.0",
+=======
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+>>>>>>> 641694c634278831b60663920a29c2bd392d3db1
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+<<<<<<< HEAD
+=======
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+>>>>>>> 641694c634278831b60663920a29c2bd392d3db1
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\bin\Debug\net6.0\TextEditorClassLibrary.deps.json
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\bin\Debug\net6.0\TextEditorClassLibrary.dll
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\bin\Debug\net6.0\TextEditorClassLibrary.pdb
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\obj\Debug\net6.0\TextEditorClassLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\obj\Debug\net6.0\TextEditorClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\obj\Debug\net6.0\TextEditorClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\obj\Debug\net6.0\TextEditorClassLibrary.AssemblyInfo.cs
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\obj\Debug\net6.0\TextEditorClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\obj\Debug\net6.0\TextEditorClassLibrary.dll
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\obj\Debug\net6.0\refint\TextEditorClassLibrary.dll
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\obj\Debug\net6.0\TextEditorClassLibrary.pdb
+C:\Users\user\Documents\C#\Trainee\TextEditorClassLibrary\obj\Debug\net6.0\ref\TextEditorClassLibrary.dll
