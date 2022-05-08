@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "4G/bkAvaRM8dkCJoHaEeEIHPUHo9S8c10FFm6c8uJmSNGsuD8toauxBj9wLJD670rWgZ+vca78IDNDMH2M+ODA==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Trainee\\TextEditorClassLibrary\\TextEditorClassLibrary.csproj",
-=======
-  "dgSpecHash": "NhKYnmB62kepSjP2UmwVjKbhbT04ZWpKKh7GVkm90KmHSdcSzZwDQGY/PLlPibBVuqGfEHqhQ49m2j6ma10KjA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\C#\\Trainee\\TextEditor\\TextEditor.csproj",
->>>>>>> 641694c634278831b60663920a29c2bd392d3db1
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\user\\Documents\\C#\\Trainee\\TextEditorClassLibrary\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
